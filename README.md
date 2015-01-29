@@ -1,4 +1,4 @@
-# node-scraper
+# NODE.JS SCRAPER
 An example of a basic website scraper built using Node.js
 
 This small example is to show what is needed to scrape a page. It's built to loop through an array of URLs and produce a single JSON file of the scraped data.
