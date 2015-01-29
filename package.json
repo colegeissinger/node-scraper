@@ -1,0 +1,13 @@
+{
+	"name"         : "web-scraper-nodejs",
+	"version"      : "0.1.0",
+	"description"  : "Allows us to point to a URL via a JSON file to scrape the contents.",
+	"main"         : "server.js",
+	"author"       : "Cole Geissinger",
+	"dependencies" : {
+		"express"     : "latest",
+		"request"     : "latest",
+		"cheerio"     : "latest",
+		"async"       : "latest"
+	}
+}
